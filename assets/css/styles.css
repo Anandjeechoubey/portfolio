@@ -235,6 +235,19 @@ img {
 .button:hover {
   box-shadow: 0 10px 36px rgba(0, 0, 0, 0.15);
 }
+.btn__certi {
+  display: inline-block;
+  background-color: var(--first-color);
+  color: #fff;
+  padding: 0.25rem 1.5rem;
+  font-weight: 400;
+  font-size: small;
+  border-radius: 0.5rem;
+  margin: 1rem 0rem;
+}
+.btn__certi:hover {
+  box-shadow: 0 10px 36px rgba(0, 0, 0, 0.15);
+}
 
 /* ===== ABOUT =====*/
 .about__container {
