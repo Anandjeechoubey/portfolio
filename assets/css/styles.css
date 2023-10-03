@@ -343,7 +343,7 @@ img {
 }
 .work__head {
   padding: 0.5rem 1rem;
-  border-bottom: 1px solid #ddd;
+  /* border-bottom: 1px solid #ddd; */
   color: var(--first-color);
 }
 .work__data {
@@ -355,10 +355,10 @@ img {
   margin-bottom: var(--mb-4);
   border-radius: 0.5rem;
   box-shadow: 0 4px 25px rgba(14, 36, 49, 0.15);
+  background: #fafafa;
 }
 .work__description {
   padding: 0.5rem 1rem;
-  background: #fafafa;
   border-bottom: 0.5rem;
 }
 .work__description h5 {
